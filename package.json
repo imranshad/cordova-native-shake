@@ -1,0 +1,25 @@
+{
+  "name": "cordova-shake-native",
+  "version": "1.0.0",
+  "description": "Cordova Native Shake",
+  "cordova": {
+    "id": "cordova-shake-native",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imranshad/cordova-native-shake.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "M Imran Shad",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/imranshad/cordova-native-shake/issues"
+  },
+  "homepage": "https://github.com/imranshad/cordova-native-shake#readme"
+}
